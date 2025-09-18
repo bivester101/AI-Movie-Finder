@@ -1,5 +1,8 @@
 # 🎬 AI Movie Finder
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-movie-finder-9zaydu2uvavxnuhslcjtwp.streamlit.app/)
+
+
 A modern Streamlit app that lets you:
 - 🔍 Search movies using **The Movie Database (TMDB)**
 - 📺 See **where to watch** (JustWatch data via TMDB’s providers API)
@@ -34,4 +37,5 @@ A modern Streamlit app that lets you:
 ---
 
 ## 📁 Project Structure
+
 
